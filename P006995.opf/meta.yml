@@ -1,5 +1,7 @@
 id: P006995
 initial_creation_type: ocr
+created_at: 29/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W2PD19979
   title: བསྟན་པ་བུ་གཅིག་གི་རྒྱུད་གསེར་གྱི་སྙིང་པོ་ཉི་མ་རབ་ཏུ་སྣང་བྱེད།
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 86
       base_file: v001.txt
-ebook_metadata:
-  title: བསྟན་པ་བུ་གཅིག་གི་རྒྱུད་གསེར་གྱི་སྙིང་པོ་ཉི་མ་རབ་ཏུ་སྣང་བྱེད།
-  author: ''
-  sku: P006995
-  cover: cover.jpg
-  layers:
-  - pagination
